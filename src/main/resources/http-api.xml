@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setting>
+
+    <!-- 请求处理链 -->
+    <chains>
+    </chains>
+
+    <!-- 参数处理类 -->
+    <argumentResolvers>
+    </argumentResolvers>
+
+    <!-- 结果处理类 -->
+    <resultConvertors>
+    </resultConvertors>
+
+    <!-- api和url映射关系 -->
+    <aliases>
+        <!--<alias key="dspPlatformApi.getCommisionAmount" value="http://${dsp-platform.url}/dspplatform/cps/amount" />-->
+        <!--<alias key="dspPlatformApi.doCommision" value="http://${dsp-platform.url}/dspplatform/cps/commision" />-->
+        <!--<alias key="dspPlatformApi.realtimeOrder" value="http://${dsp-platform.url}/dspplatform/statistic/realtimeOrder" />-->
+    </aliases>
+
+</setting>
